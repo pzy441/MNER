@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="pengziyan@114.212.84.173:22 (3)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mist@gpu217.mistgpu.xyz:10070">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/model/MNER" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pengziyan@114.212.84.173:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pengziyan@114.212.84.173:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pengziyan@114.212.84.173:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pengziyan/github/MNER" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+config_name = "config.json"
+valid_result_name = "valid_result.txt"
+test_result_name = "test_result.txt"
+output_config_file = "pytorch_model.bin"
+model_config_file = "model_config.json"
